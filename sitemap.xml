@@ -356,11 +356,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://FlagMotori.github.io/writeups/osint/Tools/</loc>
-         <lastmod>2024-08-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://FlagMotori.github.io/writeups/osint/writeups/2024/0xL4ughCTF/cheater/</loc>
          <lastmod>2024-08-28</lastmod>
          <changefreq>daily</changefreq>
